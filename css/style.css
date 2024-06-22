@@ -80,12 +80,12 @@ body{
 
 @media(max-width: 600px){
 	#main{
-		width: :100px;
+		width: 100px;
 		float: none;
 	}
 
 	#sidebar{
-		width: :100px;
+		width: 100px;
 		float: none;
 	}
 }
